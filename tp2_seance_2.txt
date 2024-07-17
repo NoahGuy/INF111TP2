@@ -1,0 +1,23 @@
+17 juillet 2024
+
+À la semaine 2, on a réussi de faire nos tache demandée de la première séance.
+
+Pour la prochaine séance on doit:
+
+
+	réunir nos fichier ensemble afin que tout marche en harmonie ( avec le ctrl+f)(Noah)
+
+	pouvoir enlever a barre d'état puis donner fonction aux Nouveau, Ouvrir, Sauvegarder et Quitter (souhayl)
+	
+	créer les fonctions de recherche pour le case sensitive et non-sensitive (josue)
+
+	Fonction pour passer à la prochaine ou précédente occurrence du mot recherché "Button" suivant, precendant (josue)
+	
+	Sauvegarder la chaine de caractère recherchée après une recherche et pouvoir la sélectionnée dans le JComboBox (et dans le "remplacer par") (simon et souhayl)
+	
+	
+
+	
+		
+	
+	
